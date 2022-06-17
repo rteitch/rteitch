@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p>Masih proses belajar bismillah jadi programmer yang membantu banyak orang</p>
 <!--
 **rteitch/rteitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
